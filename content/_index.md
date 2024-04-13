@@ -1,6 +1,5 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'The Future game'
 type: landing
 
 design:
@@ -10,8 +9,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: The future fire of Phoenix productions
+      text: 🧱 We make game with great story and exciting battle 🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
